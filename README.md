@@ -19,3 +19,15 @@ https://www.phdata.io/blog/setting-up-multi-environments-cicd-pipelines-on-aws/
 https://levelup.gitconnected.com/deploying-a-node-app-to-aws-elastic-beanstalk-using-github-actions-d64c7e486701
 
 https://towardsdatascience.com/continuous-deployment-pipeline-using-github-actions-docker-and-aws-185bb3bf41b
+
+
+https://github.com/azzan-amin-97/FlaskAppCodeDeploy
+
+
+
+[Research on migrations from one droplet to other]
+
+https://bobcares.com/blog/digitalocean-clone-droplet/
+
+
+https://www.digitalocean.com/community/questions/how-do-i-use-cpanel-with-my-existing-droplet
